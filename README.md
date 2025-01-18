@@ -1,6 +1,8 @@
 # SFML AABB Collision Demo
 A simple demonstration of Axis-Aligned Bounding Box (AABB) collision detection implemented using SFML graphics library.
 
+▶️ [Watch the demonstration video](https://www.youtube.com/watch?v=D8OitUJbuVc)
+
 ## Overview
 This project showcases a basic implementation of AABB collision detection between two rectangles. The white rectangle can be controlled by the player using WASD keys, and it changes the yellow rectangle's color to red upon collision.
 
